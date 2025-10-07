@@ -81,6 +81,6 @@ A full-stack application that fetches job listings from external RSS feeds, proc
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/job-importer.git
+git clone https://github.com/navdeeppathan/myJobImportRepo-.git
 cd job-importer
 ```
